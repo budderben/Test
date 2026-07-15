@@ -1,0 +1,9 @@
+numpy
+pillow
+matplotlib
+opencv-python
+dlib
+face-recognition
+torch
+torchvision
+tensorflow
